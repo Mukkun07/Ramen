@@ -1,6 +1,6 @@
 # DEMO
- 
-"hoge"の魅力が直感的に伝えわるデモ動画や図解を載せる
+
+![プレビュー表示](./img/demo.png)
  
 # Features
  
@@ -38,14 +38,12 @@ python demo.py
  
 作成情報を列挙する
  
-* 作成者
-* 所属
-* E-mail
+* 作成者 Kenta Murakami
+* 所属 HALOSAKA
  
 # License
-ライセンスを明示する
  
-"hoge" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+"Ramen Quest" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
  
 社内向けなら社外秘であることを明示してる
  
