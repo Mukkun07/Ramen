@@ -1,34 +1,34 @@
 # DEMO
 
+人気店のラーメンをPythonを使ってスクレイピングするプログラムです。
 ![プレビュー表示](./img/demo.png)
  
 # Features
  
-"hoge"のセールスポイントや差別化などを説明する
- 
+ 人気店のラーメンをPythonを使ってスクレイピングするプログラムです。
+ 取得したラーメン店の情報はCSVファイルとして保存されます。
+
+
 # Requirement
  
-"hoge"を動かすのに必要なライブラリなどを列挙する
- 
-* huga 3.5.2
-* hogehuga 1.0.2
+* Python 3.10.5
+* beautifulsoup4 4.9.3
+* pandas 1.3.3
  
 # Installation
- 
-Requirementで列挙したライブラリなどのインストール方法を説明する
- 
+  
 ```bash
-pip install huga_package
+
+pip install beautifulsoup
+pip install pandas
 ```
  
 # Usage
  
-DEMOの実行方法など、"hoge"の基本的な使い方を説明する
- 
 ```bash
-git clone https://github.com/hoge/~
-cd examples
-python demo.py
+git clone https://github.com/Mukkun07/Scraping.git
+cd [ファイル名]
+python scraping.py
 ```
  
 # Note
@@ -36,15 +36,10 @@ python demo.py
  
 # Author
  
-作成情報を列挙する
- 
 * 作成者 Kenta Murakami
 * 所属 HALOSAKA
  
 # License
  
 "Ramen Quest" is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
- 
-社内向けなら社外秘であることを明示してる
- 
-"hoge" is Confidential.
+
